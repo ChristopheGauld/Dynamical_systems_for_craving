@@ -1,4 +1,4 @@
-# Dynamical Systems for Craving
+# Dynamical systems for craving
 
 Substance Use Disorders (SUD) can be modeled as a prospective link from cues to craving and use.
 To explore the nonlinear interplay between craving and cues, this study applied dynamical systems theory (DST) to ecological momentary assessment (EMA) data.
