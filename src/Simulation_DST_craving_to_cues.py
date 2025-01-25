@@ -18,7 +18,7 @@ Lcues=[]
 Lsim= 200000
 cutT=int(Lsim/1.2)
 
-Nsim = 100
+Nsim = 1000
 for nsim in range(Nsim):
     print(nsim)
     seed(nsim)
